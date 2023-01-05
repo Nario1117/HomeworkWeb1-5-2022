@@ -1,0 +1,154 @@
+body {
+    background-color: #d5e0f8;
+    margin: 0;
+    font-family: "Arial";
+    color: #2b4364;
+}
+
+.page {
+    background-color: white;
+    max-width: 1400px;
+    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 1200px;
+    box-shadow: 0px 0px 20px #a0b8ea;
+    padding: 1px;
+}
+
+hr {
+    color: #eeeeee;
+    margin: 0;
+}
+
+.up {
+    margin: 10px;
+    color: #1c395b;
+    font-size: 15px;
+
+}
+
+.rotate {
+    transform: rotate(90deg);
+    display: inline-block;
+    font-size: 15px;
+    margin: 6px;
+}
+
+.margin {
+    margin: 10px;
+}
+
+.right {
+    margin-left: calc(100% - 640px);
+}
+
+.img {
+    width: 17px;
+}
+
+.logo {
+    max-width: 250px;
+    margin: 20px;
+}
+
+.small {
+    font-size: 14px;
+    color: #1c395b;
+
+}
+
+.big {
+    font-size: 20px;
+    color: #1c395b;
+
+}
+
+.right2 {
+    margin-left: 100px;
+}
+
+.colon {
+    width: 100px;
+}
+
+.gray {
+    color: #626262;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+.container {
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+}
+
+.menu {
+    margin-top: -65px;
+    margin-left: calc(100% - 555px);
+    font-size: 15px;
+}
+
+.date {
+    font-size: 14px;
+    color: #626262;
+}
+
+.big2 {
+    font-size: 60px;
+    font-family: "Times New Roman";
+    width: 600px;
+
+}
+
+.name {
+    margin-top: 40px;
+    font-size: 16px;
+}
+
+.text {
+    margin-top: -50px;
+    margin-left: 60px;
+}
+
+.text2 {
+    margin-top: 5px;
+    margin-left: 60px;
+    font-size: 12px;
+    color: #626262;
+}
+
+.table {
+    margin-top: 100px;
+}
+
+.img2 {
+    width: 100%;
+    margin-left: 100px;
+    border-radius: 15px;
+    box-shadow: 20px 20px rgba(176, 237, 231, 0.48);
+}
+
+.profilePic {
+    width: 60px;
+}
+
+.someText {
+    margin-top: 100px;
+    font-size: 30px;
+    font-family: "Times New Roman";
+}
+.green{
+    color: rgb(64, 162, 40);
+    font-size: 20px;
+    font-family: Arial;
+}
+.button {
+    background-color: #B0EDE77A;
+    color: #1c395b;
+    border-radius: 3px;
+    padding: 7px;
+}
